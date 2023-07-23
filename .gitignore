@@ -1,0 +1,8 @@
+# Ignore workspace folder
+.workspace/
+
+# Ignore TODOs
+TODO.txt
+
+# Ignore incomplete/unamed files
+Untitled.ipynb
